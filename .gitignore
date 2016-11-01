@@ -1,7 +1,15 @@
 #ignore eclipse workstation environment config
-.metadata/*
-.recommenders/*
-RemoteSystemsTempFiles/*
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+
+#ignore .settings/, .classpath, .project, in project directory
+.settings/
+.classpath
+.project
+
+#ignore maven taget/ in project directory
+target/
 
 #ignore .class files
 *.class

@@ -1,6 +1,0 @@
-127.0.0.1 - - [31/Oct/2016:14:42:27 +0800] "GET /rest/content/89 HTTP/1.1" 200 1120 http-bio-8081-exec-1 307
-0:0:0:0:0:0:0:1 - - [31/Oct/2016:14:42:31 +0800] "GET /rest/item/cat/list?callback=category.getDataService HTTP/1.1" 200 30450 http-bio-8081-exec-3 953
-127.0.0.1 - - [31/Oct/2016:15:00:23 +0800] "GET /rest/content/89 HTTP/1.1" 200 1120 http-bio-8081-exec-5 12
-127.0.0.1 - - [31/Oct/2016:15:01:51 +0800] "GET /rest/content/89 HTTP/1.1" 200 1120 http-bio-8081-exec-7 3
-0:0:0:0:0:0:0:1 - - [31/Oct/2016:15:02:05 +0800] "GET /rest/item/cat/list?callback=category.getDataService HTTP/1.1" 200 30450 http-bio-8081-exec-9 293
-127.0.0.1 - - [31/Oct/2016:15:18:15 +0800] "GET /rest/content/89 HTTP/1.1" 200 1120 http-bio-8081-exec-1 5
